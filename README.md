@@ -1,5 +1,4 @@
-# Starter_template_React_Redux_Django 
-<br/>
+# Starter template React Redux Django 
 To use this react-django starter-template you need to install `npm` .
 After that you need to install all the depenedencies mentioned in the package.json file 
 or run these commands:-
