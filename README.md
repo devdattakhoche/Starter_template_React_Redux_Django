@@ -1,4 +1,5 @@
 "# Starter_template_React_Redux_Django" 
+<br/>
 To use this react-django starter-template you need to install `npm` .
 After that you need to install all the depenedencies mentioned in the package.json file 
 or run these commands:-
@@ -13,6 +14,6 @@ $ npm i axios
 $ npm i lodash
 ```
 After installing all the dependecies , hit `python manage.py runserver`
-and go to (http://127.0.0.1:8000).
+and go to http://127.0.0.1:8000.
 
 
