@@ -1,10 +1,10 @@
-"# Starter_template_React_Redux_Django" 
+# Starter_template_React_Redux_Django 
 <br/>
 To use this react-django starter-template you need to install `npm` .
 After that you need to install all the depenedencies mentioned in the package.json file 
 or run these commands:-
 ```
-cd 
+cd reactdjango
 $ npm i -D webpack webpack-cli
 $ npm i -D babel-loader @babel/core @babel/preset-env @babel/preset-react @babel/plugin-proposal-class-properties
 $ npm i react react-dom react-router-dom
